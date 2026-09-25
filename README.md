@@ -22,18 +22,17 @@ Dhiraj Joshi a Third Year AI & Data Science student focused on building cloud-po
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dhiraj-dev-19&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="Dhiraj's GitHub Stats" />
+![Dhiraj's GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=dhiraj-dev-19&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=dhiraj-dev-19&theme=dark&hide_border=true&background=0d1117" alt="Dhiraj's GitHub Streak" />
+![Dhiraj's GitHub Streak](https://streak-stats.demolab.com/?user=dhiraj-dev-19&theme=dark&hide_border=true&background=0d1117)
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiraj-dev-19&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8" alt="Dhiraj's Most Used Languages" />
+![Dhiraj's Most Used Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhiraj-dev-19&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8)
 
 </div>
-
 ---
 
 ### 🌱 Currently
